@@ -1,4 +1,33 @@
 [
+    {
+        "name": "Jaxonomy",
+        "license": "osi",
+        "url": "https://py.jaxonomy.com/",
+        "logo": "machina-vitalis.svg",
+        "vendor": "Machina Vitalis",
+        "vendorURL": "https://www.machinavitalis.com/",
+        "examplesURL": "https://py.jaxonomy.com/examples/fmi_export_roundtrip/",
+        "description": "Python library for simulating hybrid dynamical systems from block diagrams and acausal components, built on JAX with automatic differentiation through the simulation",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "macOS"
+        ],
+        "interfaces": [
+            "library"
+        ],
+        "fmiVersions": [
+            "2.0",
+            "3.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "layeredStandards": []
+    },
 	{
         "name": "OpenXilEnv",
         "license": "osi",
