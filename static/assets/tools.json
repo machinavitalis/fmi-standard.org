@@ -6,7 +6,7 @@
         "logo": "machina-vitalis.svg",
         "vendor": "Machina Vitalis",
         "vendorURL": "https://www.machinavitalis.com/",
-        "examplesURL": "https://py.jaxonomy.com/examples/fmi_export_roundtrip/",
+        "examplesURL": "https://github.com/machinavitalis/jaxonomy/tree/main/fmi-compatibility",
         "description": "Python library for simulating hybrid dynamical systems from block diagrams and acausal components, built on JAX with automatic differentiation through the simulation",
         "features": [],
         "platforms": [
@@ -24,7 +24,8 @@
             "CS"
         ],
         "fmuImport": [
-            "CS"
+            "CS",
+            "ME"
         ],
         "layeredStandards": []
     },
